@@ -6,4 +6,4 @@ var reader = Fn.new {
   System.print(File.read(userInput))
 }
 
-prompt.call()
+reader.call()
