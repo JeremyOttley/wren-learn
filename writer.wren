@@ -1,3 +1,3 @@
-import "./reader" for Reader
+import "./reader" for reader
 
-Reader.call()
+reader.call()
