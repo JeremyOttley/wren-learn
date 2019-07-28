@@ -15,4 +15,4 @@ var pigLatin = Fn.new {
 
 }
 
-pLatin.call()
+pigLatin.call()
