@@ -6,7 +6,7 @@ var reverse = Fn.new {
   var string = Stdin.readLine()
   var endRange = (string.count - 1)
   var slice = string[endRange..0]
-  System.print(slice)
+  System.print("%(string) reversed is %(slice)")
 }
 
  reverse.call()
