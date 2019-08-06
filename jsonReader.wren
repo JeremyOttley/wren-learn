@@ -5,3 +5,5 @@ System.print("enter json file path: ")
 var userInput = Stdin.readLine()
 var string = File.read(userInput)
 System.print(JSON.parse(string))
+
+// WIP
