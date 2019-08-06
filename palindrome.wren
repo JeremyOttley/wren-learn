@@ -20,3 +20,5 @@ var palindrome = Fn.new {
 }
 
  palindrome.call()
+
+// WIP
